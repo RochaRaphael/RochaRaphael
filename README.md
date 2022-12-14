@@ -1,4 +1,12 @@
-### Hi there 👋
+### Olá, eu sou o Raphael Rocha👋
+
+Desenvolvedor .Net com background em melhoria/automação de processos. Formado em Sistemas de Informação na Universidade Santa Cecília- UNISANTA, enfoque de ensino: Gestão da inovação, Linguagem de Programação, Desenvolvimento de Algoritmo e em Banco de Dados.
+
+ Sou apaixonado por tecnologia. Estou sempre em busca de aprendizado e novas tecnologias. Procuro novos desafios que me façam evoluir, pois acredito que um profissional de tecnologia nunca será completo, sempre estará em sua versão beta, e curiosidade e interesse são as melhores qualidades que esse profissional pode ter.
+
+[Linkedin](https://www.linkedin.com/in/raphael-rocha-dev/)
+
+Email: rocharaphael0911@outlook.com
 
 <!--
 **RochaRaphael/RochaRaphael** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
