@@ -16,7 +16,7 @@
 ---------------------------------------------------------------------------------------
  
 Desenvolvedor .Net com background em melhoria/automação de processos. Formado em Sistemas de Informação na Universidade Santa Cecília- UNISANTA, enfoque de ensino: Gestão da inovação, Linguagem de Programação, Desenvolvimento de Algoritmo e em Banco de Dados.
- 
+ <img align=right src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif">
  Background Profissional:
 - Linguagem C# .Net
 - ASP. NET 6
