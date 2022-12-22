@@ -1,11 +1,7 @@
 ### Olá, eu sou o Raphael Rocha 👋
 ## Desenvolvedor .Net
 
-<div align="center">
-  <a href="https://github.com/RochaRaphael">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RochaRaphael&layout=compact&langs_count=7&theme=dark"/>
-</div>
+
  
  <div style="margin: auto" ><br>
   <img align="center" alt="Rafa-Js" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg">
@@ -21,10 +17,10 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 <img  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" height="205">
   
  Background Profissional:
-- Linguagem C# .Net
-- ASP. NET 6
+- C# .NET 6
+- ASP. NET Core Web API
+- ASP. NET Core MVC
 - Entity Framework
-- Arquitetura MVC
 - API Rest
 - Banco de Dados SQL
 - Docker
