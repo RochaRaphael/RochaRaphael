@@ -1,4 +1,4 @@
-# Olá, eu sou o Raphael Rocha 👋
+# Raphael Rocha 
 ## Desenvolvedor .Net
 
 
