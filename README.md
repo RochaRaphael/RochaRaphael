@@ -26,7 +26,7 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 - Docker
 - Scrum/Kanban
 
- 
+ ---------------------------------------------------------
  CONTATO
  
  rocharaphael0911@outlook.com
