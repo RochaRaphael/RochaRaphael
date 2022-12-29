@@ -12,11 +12,11 @@
  
 ---------------------------------------------------------------------------------------
  
-Desenvolvedor .Net com background em melhoria/automação de processos. Formado em Sistemas de Informação na Universidade Santa Cecília- UNISANTA, enfoque de ensino: Gestão da inovação, Linguagem de Programação, Desenvolvimento de Algoritmo e em Banco de Dados.
+Desenvolvedor .Net com background em melhoria/automação de processos. Formado em Sistemas de Informação na Universidade Santa Cecília- UNISANTA, enfoque de ensino: Gestão da inovação, Linguagem de Programação, Desenvolvimento de Algoritmo e em Banco de Dados. 
   
 <img  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" height="205">
   
- Background Profissional:
+ Minhas Skills:
 - C# .NET 6
 - ASP. NET Core Web API
 - ASP. NET Core MVC
