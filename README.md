@@ -18,8 +18,6 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
   
  Minhas Skills:
 - C# .NET 6
-- ASP. NET Core Web API
-- ASP. NET Core MVC
 - Entity Framework
 - API Rest
 - Banco de Dados SQL
