@@ -22,6 +22,7 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 - API Rest
 - Banco de Dados SQL
 - Docker
+- CI/CD
 - Scrum/Kanban
 
  ---------------------------------------------------------
