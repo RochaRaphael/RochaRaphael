@@ -20,6 +20,9 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 - C# .NET 6
 - Entity Framework
 - API Rest
+- JWT
+- RabbitMQ
+- Redis
 - Banco de Dados SQL
 - Docker
 - CI/CD
