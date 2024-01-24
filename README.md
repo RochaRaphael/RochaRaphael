@@ -17,7 +17,7 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 <img  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" height="205">
   
  Skills:
-- C# .NET 6
+- C# .NET
 - Entity Framework
 - API Rest
 - JWT
