@@ -26,7 +26,6 @@ Desenvolvedor .Net com background em melhoria/automação de processos. Formado 
 - Banco de Dados SQL
 - Docker
 - CI/CD
-- Scrum/Kanban
 
  ---------------------------------------------------------
  CONTATO
