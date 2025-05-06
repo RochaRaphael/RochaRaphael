@@ -12,20 +12,23 @@
  
 ---------------------------------------------------------------------------------------
  
-Desenvolvedor .Net com background em melhoria/automação de processos. Formado em Sistemas de Informação na Universidade Santa Cecília- UNISANTA, enfoque de ensino: Gestão da inovação, Linguagem de Programação, Desenvolvimento de Algoritmo e em Banco de Dados. 
+Desenvolvedor Back-End | .NET | Azure
+
+Construo APIs escaláveis e eficientes com .NET e Azure, sempre buscando otimizar desempenho e custos. Tenho experiência com infraestrutura na nuvem, microserviços e práticas de DevOps para garantir entregas ágeis e de qualidade.
+
+Gosto de enxergar além do código, entender o impacto da tecnologia no negócio e traduzir desafios em soluções bem estruturadas. Para mim, desenvolvimento não é só sobre programar, mas também sobre comunicação e colaboração entre times técnicos e não técnicos.
+
+Atualmente certificado em AZ-900: Azure Fundamentals, com foco em me especializar em soluções distribuídas, performance e arquitetura backend com .NET e Azure.
   
 <img  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" height="205">
   
  Skills:
-- C# .NET
-- Entity Framework
-- API Rest
-- JWT
-- RabbitMQ
-- Redis
-- Banco de Dados SQL
-- Docker
-- CI/CD
+Linguagens & Frameworks: C#, .NET
+- Cloud & Azure: Azure Functions, App Services, Cosmos DB, Azure AI (Cognitive Search, OpenAI), Azure DevOps
+- Banco de Dados: SQL Server, Redis
+- Arquitetura: Microserviços, API RESTful, Mensageria (Azure Service Bus, RabbitMQ)
+- Containers & DevOps: Docker, CI/CD com Azure Pipelines
+- Metodologias: Agile / Scrum
 
  ---------------------------------------------------------
  CONTATO
