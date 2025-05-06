@@ -23,7 +23,7 @@ Atualmente certificado em AZ-900: Azure Fundamentals, com foco em me especializa
 <img  src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="320" height="205">
   
  Skills:
-Linguagens & Frameworks: C#, .NET
+- Linguagens & Frameworks: C#, .NET
 - Cloud & Azure: Azure Functions, App Services, Cosmos DB, Azure AI (Cognitive Search, OpenAI), Azure DevOps
 - Banco de Dados: SQL Server, Redis
 - Arquitetura: Microserviços, API RESTful, Mensageria (Azure Service Bus, RabbitMQ)
